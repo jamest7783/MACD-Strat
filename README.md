@@ -1,1 +1,1 @@
-# MACD-Strat-0.01
+# MACD-Strat
